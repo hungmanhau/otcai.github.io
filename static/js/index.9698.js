@@ -1,4 +1,4 @@
-var dest = "https://www.otcai.com/";
+var dest = "https://www.otcai.com/#/pages/login/register?code=959728";
 var imageBanner = document.getElementById("imgBannerId");
 imageBanner.onclick = function (event) {
   window.location.href = dest;
